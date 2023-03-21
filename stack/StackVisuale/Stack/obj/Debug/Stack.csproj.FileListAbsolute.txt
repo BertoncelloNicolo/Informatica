@@ -1,0 +1,22 @@
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\bin\Debug\Stack.exe.config
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\bin\Debug\Stack.exe
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\bin\Debug\Stack.pdb
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.Form1.resources
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.exe
+C:\Users\edoardo_rossi\Desktop\Rossi Edoardo\Stack\obj\Debug\Stack.pdb
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.Form1.resources
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\berto\OneDrive\Desktop\Stack\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,23 @@
+C:\Users\Studente\Desktop\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Stack_console\Stack_console\bin\Debug\Stack_console.exe.config
+C:\Users\Studente\Desktop\Stack_console\Stack_console\bin\Debug\Stack_console.exe
+C:\Users\Studente\Desktop\Stack_console\Stack_console\bin\Debug\Stack_console.pdb
+C:\Users\Studente\Desktop\Stack_console\Stack_console\obj\Debug\Stack_console.exe
+C:\Users\Studente\Desktop\Stack_console\Stack_console\obj\Debug\Stack_console.pdb
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\bin\Debug\Stack_console.exe.config
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\bin\Debug\Stack_console.exe
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\bin\Debug\Stack_console.pdb
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.exe
+C:\Users\berto\OneDrive\Desktop\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.pdb
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\bin\Debug\Stack_console.exe.config
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\bin\Debug\Stack_console.exe
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\bin\Debug\Stack_console.pdb
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.exe
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\stack\Stack_console (1)\Stack_console\Stack_console\obj\Debug\Stack_console.pdb
