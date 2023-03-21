@@ -10,7 +10,7 @@ namespace Data
     {
         public static bool bisestile(int anno)
         {
-            if ((anno % 4 == 0 && anno % 100 != 0) || anno % 400 == 0)
+            if ((anno % 4 == 0 && anno % 100 != 0) || anno % 400 == 0)//controllo per il bisestile
             {
                 return true;
             }
@@ -44,7 +44,7 @@ namespace Data
                 return false;
             } 
                 
-            if (!int.TryParse(data_split[0], out giorno) || !int.TryParse(data_split[1], out mese) || !int.TryParse(data_split[2], out anno))
+            if (!int.TryParse(data_split[0], out giorno) || !int.TryParse(data_split[1], out mese) || !int.TryParse(data_split[2], out anno))//se non inserisco dei valori validi ritorna false 
             {
                 return false;
             }

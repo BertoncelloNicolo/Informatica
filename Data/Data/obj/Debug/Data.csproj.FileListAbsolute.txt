@@ -19,3 +19,14 @@ C:\Users\Studente\Desktop\Data\Data\obj\Debug\Data.csproj.GenerateResource.cache
 C:\Users\Studente\Desktop\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\Studente\Desktop\Data\Data\obj\Debug\Data.exe
 C:\Users\Studente\Desktop\Data\Data\obj\Debug\Data.pdb
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\bin\Debug\Data.exe.config
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\bin\Debug\Data.exe
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\bin\Debug\Data.pdb
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.Form1.resources
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.exe
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\Data\Data\obj\Debug\Data.pdb

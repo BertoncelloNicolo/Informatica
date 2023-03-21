@@ -4,15 +4,15 @@ namespace Data
 {
     class ClasseData
     {
-        int _giorno;
-        int _mese;
-        int _anno;
-        int[] giorni_mese = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+        int _giorno;//attributo giorno
+        int _mese;//attributo mese
+        int _anno;//attributo anno 
+        int[] giorni_mese = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 }; //array con tutti i giorni dei mesi 
 
         public ClasseData(int giorno, int mese, int anno)
         {
             Anno = anno;
-            if (Controllo_Bisestile()) //se il l'anno è bisestile allora assegno a febbraio 29 giorni 
+            if (Controllo_Bisestile()) //se l'anno è bisestile allora assegno a febbraio 29 giorni 
             {
                 giorni_mese[1] = 29;
             }
