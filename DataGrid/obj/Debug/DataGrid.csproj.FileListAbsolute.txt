@@ -1,0 +1,11 @@
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\berto\OneDrive\Desktop\scuola\informatica\DataGrid\obj\Debug\DataGrid.pdb
